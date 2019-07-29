@@ -5,7 +5,6 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
-        //My Thrid commit
         public int CategoryId { get; set; }
 
         [Required]
